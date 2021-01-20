@@ -19,7 +19,7 @@ Then run the following commands in your terminal:
 - `git clone https://github.com/SiboYang/auto-opt-out.git`
 - `cd auto-opt-out`
 - `npm install`
-- `npm run`  
+- `npm start`  
 
 
 
