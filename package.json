@@ -1,0 +1,16 @@
+{
+  "name": "opt-out",
+  "version": "1.0.0",
+  "description": "",
+  "main": "opt-out.js",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node opt-out.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
