@@ -5,8 +5,9 @@ Note: Please use this script only if you want to opt out all the fees in the "St
 
 ## How to use
 
-Preparation (Skip this part if you have Node.js installed): 
+Preparation (Skip this part if you have Node.js and Git installed): 
 - Install [Node.js](https://nodejs.org/en/download/)
+- Install [Git](https://github.com/git-guides/install-git)
 
 Open your terminal:
 - Linux user: press ***Ctrl+Alt+T***
