@@ -1,6 +1,7 @@
 # Auto opt out tool
 
-Opt put your fees from minerva while your are brushing your teeth
+Opt put your fees from minerva while your are brushing your teeth.  
+Note: Please use this script only if you want to opt out all the fees in the "Student Fee Opt-outs" page
 
 ## How to use
 
